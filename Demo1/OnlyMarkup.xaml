@@ -1,0 +1,25 @@
+﻿<Window x:Class="Demo1.OnlyMarkup"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Demo1"
+        mc:Ignorable="d"
+        Title="OnlyMarkup" Height="300" Width="300">
+    <Grid>
+        <Button Height="20" Margin="19,35,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Content="测试" Name="btnTest" Click="btnTest_Click"></Button>
+    </Grid>
+    <x:Code>
+        <![CDATA[
+        public OnlyMarkup()
+        {
+            //InitializeComponent();
+        }
+        
+        private void btnTest_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("测试");
+        }
+        ]]>
+    </x:Code>
+</Window>

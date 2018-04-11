@@ -1,0 +1,14 @@
+﻿<Window x:Class="LayoutDemo.FrmStockPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LayoutDemo"
+        mc:Ignorable="d"
+        Title="FrmStockPanel" Height="300" Width="300">
+    <StackPanel Orientation="Vertical">
+        <Button Content="我是按钮" HorizontalAlignment="Center"></Button>
+        <TextBox Text="我是文本框" HorizontalAlignment="Left"></TextBox>
+        <TextBlock HorizontalAlignment="Right">我是文本框</TextBlock>
+    </StackPanel>
+</Window>

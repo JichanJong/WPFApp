@@ -1,0 +1,4 @@
+E:\MyProject\WPFSln\CodeOnlyDemo\bin\Debug\CodeOnlyDemo.exe
+E:\MyProject\WPFSln\CodeOnlyDemo\bin\Debug\CodeOnlyDemo.pdb
+E:\MyProject\WPFSln\CodeOnlyDemo\obj\Debug\CodeOnlyDemo.exe
+E:\MyProject\WPFSln\CodeOnlyDemo\obj\Debug\CodeOnlyDemo.pdb
