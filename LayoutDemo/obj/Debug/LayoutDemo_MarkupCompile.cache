@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 E:\MyProject\WPFSln\LayoutDemo\App.xaml
-3-1336907232
+6-928585964
 
-7275098561
+10-963648237
 121654848548
-FrmStockPanel.xaml;FrmWrapPanel.xaml;MainWindow.xaml;
+FrmDockPanel.xaml;FrmGrid.xaml;FrmLayoutSpliter.xaml;FrmStockPanel.xaml;FrmWrapPanel.xaml;MainWindow.xaml;
 
 False
 

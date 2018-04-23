@@ -15,3 +15,9 @@ E:\MyProject\WPFSln\LayoutDemo\obj\Debug\LayoutDemo.Properties.Resources.resourc
 E:\MyProject\WPFSln\LayoutDemo\obj\Debug\LayoutDemo.csproj.GenerateResource.Cache
 E:\MyProject\WPFSln\LayoutDemo\obj\Debug\LayoutDemo.exe
 E:\MyProject\WPFSln\LayoutDemo\obj\Debug\LayoutDemo.pdb
+E:\MyProject\WPFSln\LayoutDemo\obj\Debug\FrmDockPanel.g.cs
+E:\MyProject\WPFSln\LayoutDemo\obj\Debug\FrmGrid.g.cs
+E:\MyProject\WPFSln\LayoutDemo\obj\Debug\FrmLayoutSpliter.g.cs
+E:\MyProject\WPFSln\LayoutDemo\obj\Debug\FrmDockPanel.baml
+E:\MyProject\WPFSln\LayoutDemo\obj\Debug\FrmGrid.baml
+E:\MyProject\WPFSln\LayoutDemo\obj\Debug\FrmLayoutSpliter.baml
