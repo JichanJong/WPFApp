@@ -1,0 +1,21 @@
+﻿<Window x:Class="ControlDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="Git installation not found." Width="100" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"></Label>
+        <TextBlock Text="Git installation not found." Width="100" Height="100" Margin="200,50,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" TextWrapping="Wrap"></TextBlock>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="36,115,0,0" VerticalAlignment="Top" Width="75" ToolTip="这是按钮提示" ToolTipService.Placement="Right"/>
+        <Button x:Name="button1" Content="Button" HorizontalAlignment="Left" Margin="111,204,0,0" VerticalAlignment="Top" Width="75">
+            <Button.ToolTip>
+                <ToolTip Placement="Left">
+                    <Image Source="images/mm.jpg"></Image>
+                </ToolTip>
+            </Button.ToolTip>
+        </Button>
+    </Grid>
+</Window>

@@ -1,0 +1,22 @@
+﻿<Window x:Class="ControlDemo.frmScrollView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlDemo"
+        mc:Ignorable="d"
+        Title="frmScrollView" Height="300" Width="300">
+    <Grid>
+        <ScrollViewer Height="100" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <Button Content="这是按钮"></Button>
+                <TextBlock Text="这是文本"></TextBlock>
+                <CheckBox Content="电影"></CheckBox>
+                <CheckBox Content="体育"></CheckBox>
+                <CheckBox Content="学习"></CheckBox>
+                <CheckBox Content="旅游"></CheckBox>
+                <TextBox Text="By continuing to use this site you consent to the use of cookies on your device as described in our Cookie Policy unless you have disabled them. You can change your Cookie Settings at any time but parts of our site will not function correctly without them." TextWrapping="Wrap"></TextBox>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>

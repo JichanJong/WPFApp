@@ -17,3 +17,5 @@ E:\MyProject\WPFSln\Demo1\obj\Debug\Escaping.g.cs
 E:\MyProject\WPFSln\Demo1\obj\Debug\NamespaceWindow.g.cs
 E:\MyProject\WPFSln\Demo1\obj\Debug\Escaping.baml
 E:\MyProject\WPFSln\Demo1\obj\Debug\NamespaceWindow.baml
+E:\MyProject\DemoSln\WPFApp\Demo1\obj\Debug\Demo1.exe
+E:\MyProject\DemoSln\WPFApp\Demo1\obj\Debug\Demo1.pdb

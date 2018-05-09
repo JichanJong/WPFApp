@@ -1,0 +1,16 @@
+E:\MyProject\DemoSln\WPFApp\ControlDemo\bin\Debug\ControlDemo.exe.config
+E:\MyProject\DemoSln\WPFApp\ControlDemo\bin\Debug\ControlDemo.exe
+E:\MyProject\DemoSln\WPFApp\ControlDemo\bin\Debug\ControlDemo.pdb
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\ControlDemo.csprojResolveAssemblyReference.cache
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\MainWindow.g.cs
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\App.g.cs
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\ControlDemo_MarkupCompile.cache
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\ControlDemo_MarkupCompile.lref
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\MainWindow.baml
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\ControlDemo.g.resources
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\ControlDemo.Properties.Resources.resources
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\ControlDemo.csproj.GenerateResource.Cache
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\ControlDemo.exe
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\ControlDemo.pdb
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\frmScrollView.g.cs
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\frmScrollView.baml
