@@ -1,0 +1,31 @@
+﻿<Window x:Class="ControlDemo.frmExpander"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlDemo"
+        mc:Ignorable="d"
+        Title="frmExpander" Height="300" Width="300">
+    <Grid>
+        <StackPanel>
+            <Expander Header="System.String">
+                <TextBlock>
+                        <![CDATA[
+                        [SerializableAttribute]
+[ComVisibleAttribute(true)]
+public sealed class String : IComparable, ICloneable, IConvertible, 
+	IEnumerable, IComparable<string>, IEnumerable<char>, IEquatable<string>
+                        ]]>
+                </TextBlock>
+            </Expander>
+            <Expander Header="System Java Platform" ExpandDirection="Right" IsExpanded="False">
+                <TextBlock>
+                    public final class System
+extends Object
+The System class contains several useful class fields and methods. It cannot be instantiated.
+Among the facilities provided by the System class are standard input, standard output, and error output streams; access to externally defined properties and environment variables; a means of loading files and libraries; and a utility method for quickly copying a portion of an array.
+                </TextBlock>
+            </Expander>
+        </StackPanel>
+    </Grid>
+</Window>

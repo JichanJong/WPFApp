@@ -54,7 +54,19 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="frmExpander.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="frmGroupBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="frmScrollView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="frmTabControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -66,8 +78,17 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="frmExpander.xaml.cs">
+      <DependentUpon>frmExpander.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="frmGroupBox.xaml.cs">
+      <DependentUpon>frmGroupBox.xaml</DependentUpon>
+    </Compile>
     <Compile Include="frmScrollView.xaml.cs">
       <DependentUpon>frmScrollView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="frmTabControl.xaml.cs">
+      <DependentUpon>frmTabControl.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>

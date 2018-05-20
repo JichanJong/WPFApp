@@ -14,3 +14,9 @@ E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\ControlDemo.exe
 E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\ControlDemo.pdb
 E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\frmScrollView.g.cs
 E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\frmScrollView.baml
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\frmGroupBox.g.cs
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\frmTabControl.g.cs
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\frmGroupBox.baml
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\frmTabControl.baml
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\frmExpander.g.cs
+E:\MyProject\DemoSln\WPFApp\ControlDemo\obj\Debug\frmExpander.baml

@@ -1,0 +1,28 @@
+﻿<Window x:Class="ControlDemo.frmTabControl"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlDemo"
+        mc:Ignorable="d"
+        Title="frmTabControl" Height="300" Width="300">
+    <Grid>
+        <TabControl TabStripPlacement="Top">
+            <TabItem Header="基本信息" IsSelected="True">
+                <StackPanel>
+                    <RadioButton Content="男"></RadioButton>
+                    <RadioButton Content="女"></RadioButton>
+                    <TextBox Text="姓名"></TextBox>
+                    <Button Content="保存"></Button>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="爱好">
+                <StackPanel>
+                    <CheckBox Content="读书"></CheckBox>
+                    <CheckBox Content="运动"></CheckBox>
+                    <Button Content="保存"></Button>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

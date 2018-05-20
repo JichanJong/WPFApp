@@ -1,0 +1,19 @@
+﻿<Window x:Class="ControlDemo.frmGroupBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlDemo"
+        mc:Ignorable="d"
+        Title="frmGroupBox" Height="300" Width="300">
+    <Grid>
+        <GroupBox Header="性别">
+            <StackPanel>
+                <RadioButton Content="男"></RadioButton>
+                <RadioButton Content="女"></RadioButton>
+                <RadioButton Content="保密"></RadioButton>
+                <Button Content="保存"></Button>
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>

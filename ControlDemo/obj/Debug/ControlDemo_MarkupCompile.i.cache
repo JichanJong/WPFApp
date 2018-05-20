@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 E:\MyProject\DemoSln\WPFApp\ControlDemo\App.xaml
-2-417304279
+5-1880597528
 
-101835277210
+131223063733
 13-1142990016
-frmScrollView.xaml;MainWindow.xaml;
+frmExpander.xaml;frmGroupBox.xaml;frmScrollView.xaml;frmTabControl.xaml;MainWindow.xaml;
 
 True
 
